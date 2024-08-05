@@ -5,7 +5,7 @@ import Floating from "./Floating"
 function Login() {
   return (
     <div className="w-full h-full">
-        <div className="loginsection ">
+        <div className="loginsection font-mono ">
           <div className="">
             <div>
             <img src="/res 1.png" alt="" />
